@@ -6,7 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 Clone of a popular video game Frogger made in Visual Studio using Windows Forms and C#.
 
-### Author ###
+### Authors ###
 
 Luka Mihačić
 
